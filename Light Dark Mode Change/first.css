@@ -1,0 +1,19 @@
+button{
+    color : yellow;
+    background-color: #232f23;
+}
+div{
+    height: 150px;
+    width: 200px;
+    color: white;
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+}
+
+.dark{
+    background-color: #232f23;
+}
+.light{
+    background-color: white;
+}
